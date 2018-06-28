@@ -1,0 +1,27 @@
+{
+  "name": "gitlab-delete-all-repos",
+  "version": "1.0.0",
+  "description": "This is a very simple app designed to query your gitlab account for 20 repos at a time and loop through and delete them. The app will terminate once there are no more repos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yshuman1/gitlab-delete-all-repos.git"
+  },
+  "keywords": [
+    "gitlab",
+    "node",
+    "api",
+    "delete",
+    "repo",
+    "project"
+  ],
+  "author": "Yasin Shuman <email@yasin.io> (https://www.yasin.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yshuman1/gitlab-delete-all-repos/issues"
+  },
+  "homepage": "https://github.com/yshuman1/gitlab-delete-all-repos#readme"
+}
