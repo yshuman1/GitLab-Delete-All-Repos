@@ -1,9 +1,9 @@
 const axios = require("axios");
 const _ = require("lodash");
 //provide your token on the next line
-axios.defaults.headers.common["Private-Token"] = "vtp3UtSzV8B_ntZgws7E";
+axios.defaults.headers.common["Private-Token"] = "put your token here";
 //provide your username on the next line
-const user = "yshuman1";
+const user = " your username here";
 let projectArray = [];
 let reposExist = true;
 
